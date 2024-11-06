@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I started college in 2014 as a comp-sci major before switching to a hard science after two years. Then Covid happened and I learned how to program in BASIC, writing that afformentioned terrible text adventure. I then decided to test myself by porting the framework to Python, C++, and Java. All were a success, but Python was the winner for my goals.
+- I also like collecting video games and have for the majority of my life, so if you want to talk games, well, I'm game.
+- Also cars are cool, I guess. 
 
 <!---
 MustangMike96/MustangMike96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
